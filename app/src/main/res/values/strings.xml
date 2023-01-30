@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="btn_inicio">Iniciar juego</string>
+    <string name="btn_giveUp">Me rindo</string>
+    <string name="etq_puntos">Puntos: %d</string>
+    <string name="etq_err">Errores: %d</string>
+    <string name="btn_reset">Reinicar partida</string>
+    <string name="dialog_title">Has terminado el juego con %d puntos y %d errores</string>
+    <string name="dialog_msg">¿Quieres jugar de nuevo?</string>
+    <string name="cancell_btn">No</string>
+    <string name="accept_btn">Si</string>
+    <string name="etq_tiempo">Tiempo %d</string>
+    <string name="dialog_title_time">Se ha acabado el tiempo,tienes %d puntos y %d errores</string>
+</resources>
